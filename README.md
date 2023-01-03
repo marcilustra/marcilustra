@@ -2,7 +2,7 @@
 - I’m an illustrator doing mostly nsfw arts.
 - I’m currently learning how to use C for Computer Science
 - and later C# for Video Games.
-- I currently cannot Collab on any projects as a programmer yet since
+- I cannot Collab on any projects as a programmer yet since
 - I lack the proper expertise but feel free to check in with me for Artistic Collaborations.
 - How to reach me ...
 -   Email (Accountant): edgarthorne420@gmail.com
