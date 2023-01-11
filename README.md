@@ -8,7 +8,6 @@
 -   Email (Accountant): edgarthorne420@gmail.com
 -   DeviantArt: https://www.deviantart.com/marci-lustra
 -   PIXIV: https://www.pixiv.net/en/users/72808862
--   itch.io: https://marcilustra.itch.io/
 
 
 <!---
