@@ -1,4 +1,4 @@
-- Marci Lustra here.
+# Marci Lustra.
 - I’m an illustrator doing mostly nsfw arts.
 - I’m currently learning how to use C for Computer Science
 - and later C# for Video Games.
@@ -10,6 +10,8 @@
 -   PIXIV: https://www.pixiv.net/en/users/72808862
 
 
+## Languages we speak
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcilustra)](https://github.com/marcilustra/github-readme-stats)
 <!---
 marcilustra/marcilustra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
