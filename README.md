@@ -10,7 +10,7 @@
 -   PIXIV: https://www.pixiv.net/en/users/72808862
 
 
-## Languages we speak
+## Languages we currently speak; ranked.
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcilustra&theme=dracula)](https://github.com/marcilustra/github-readme-stats)
 <!---
 marcilustra/marcilustra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
