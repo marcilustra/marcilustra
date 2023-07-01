@@ -3,7 +3,7 @@
 - I’m currently studying Computer Science both at Uni and self taught
 
 
-- How to contact us for Collaborations:
+- ## How to contact us for Collaborations:
 -   Email: edgarthorne420@gmail.com
 -   DeviantArt: https://www.deviantart.com/marci-lustra
 -   Twitter: @edmuni_
