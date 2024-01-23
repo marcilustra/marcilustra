@@ -6,7 +6,6 @@
 - ## How to contact us for Collaborations:
 -   Email: edgarthorne420@gmail.com
 -   DeviantArt: https://www.deviantart.com/marci-lustra
--   Twitter: @edmuni_
 
 
 ## Languages we currently speak; ranked.
