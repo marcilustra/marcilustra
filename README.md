@@ -1,6 +1,6 @@
 # Marci Lustra.
-- I’m a visual artist willing to learn how to use code to create pieces.
-- I’m currently studying Computer Science both at Uni and self taught
+- We are visual artists learning how to code to create art.
+- We are studying Computer Science both at Uni and self taught
 
 
 - ## How to contact us for Collaborations:
